@@ -1,0 +1,26 @@
+{
+  "name": "openai-agents",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fahim-synechron123/openai-agents#readme",
+  "bugs": {
+    "url": "https://github.com/fahim-synechron123/openai-agents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahim-synechron123/openai-agents.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@azure/identity": "^4.14.0",
+    "@openai/agents": "^0.21.0",
+    "openai": "^7.43.0",
+    "zod": "^4.6.7"
+  }
+}
